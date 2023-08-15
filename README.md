@@ -21,7 +21,8 @@ I'm Kalebe Batista, Front-end programmer. I'm passionate about technology and I'
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="icone-facebook"> 
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/kalebe-batista/">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="icone-linkedin"> 
+  <img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="icone-linkedin"> 
+</a>
 </a>
 <br>
 <br>
